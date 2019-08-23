@@ -1,0 +1,5 @@
+@import 'react-github-button/assets/style.css';
+@import './homejsx/static/';
+@import './homejsx/static/./home.less';
+@import './homejsx/static/./footer.less';
+@import './homejsx/static/./responsive.less';

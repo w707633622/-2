@@ -1,0 +1,27 @@
+.ant-list-vertical .ant-list-item-meta-avatar {
+    display: block;
+}
+
+/* 查看详情垂直居中 */
+.ant-list-item-extra{
+    line-height: 170px;
+}
+
+/* 编辑和删除按钮靠右 */
+.ant-list-item-action {
+    text-align: right;
+}
+
+/* 列表内容去与图标距离 */
+.ant-list-item-meta-content {
+    margin: 0 0 0 20px;
+}
+
+/* 项目描述上下 */
+.ant-row {
+    margin: 10px 0 0 0;
+}
+
+.ant-list-item-main {
+    padding: 30px;
+}

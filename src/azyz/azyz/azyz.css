@@ -1,0 +1,15 @@
+#components-layout-demo-side .logo {
+  height: 32px;
+  background: rgba(255,255,255,.2);
+  margin: 16px;
+}
+
+.logo {
+  height: 32px;
+  background: rgba(255,255,255,.2);
+  margin: 16px;
+}
+
+.ant-row-flex-end {
+  background-color: #001529;
+}
